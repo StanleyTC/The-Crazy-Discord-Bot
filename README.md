@@ -1,0 +1,2 @@
+# The Crazy Discord Bot
+ 
