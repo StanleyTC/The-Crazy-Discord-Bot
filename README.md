@@ -7,3 +7,6 @@ English:
 hello, in this repertoire we will have all the codes I used to
 create The Crazy Bot, a horror entertainment bot used in discord,
 thank you c=
+
+o token desse bot já não está mais válido. Por favor, faça uso do seu 
+token caso se inspire nos meus códigos C=
